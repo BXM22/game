@@ -1,0 +1,4 @@
+project:
+    - name: wordle
+    - scope: to-do
+    
