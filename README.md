@@ -1,2 +1,2 @@
 # game
-A variety of games
+A variety of games demonstrating Python knowledge 
